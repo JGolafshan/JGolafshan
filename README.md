@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh.
-- 👀 I’m interested in: Fintech, Javascript.
+- 👀 I’m interested in: Fintech and Javascript.
 - 🌱 I’m currently learning: Javascript.
 - 💞️ I’m looking to collaborate on Trading .
 - 📫 How to reach me: JGolafshan@outlook.com
