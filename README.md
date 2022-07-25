@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Josh.
-- 👀 I’m interested in: Fintech and Javascript.
-- 🌱 I’m currently learning: Javascript.
-- 💞️ I’m looking to collaborate on Trading.
+- 👀 I’m interested in: Fintech.
+- 🌱 I’m currently learning: Javascript (Node JS) and C.
+- 💞️ I’m looking to collaborate on trading applications.
 - 📫 How to reach me: JGolafshan@outlook.com
--  ✔️ Current Project: [cricket-twitter-bot](https://github.com/JGolafshan/cricket-twitter-bot)
+-  ✔️ Current Project: [] - None 
 
 <!---
 JGolafshan/JGolafshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
