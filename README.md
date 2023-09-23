@@ -21,9 +21,6 @@ I'm a self-taught passionate developer from Australia
 <a href="[https://github.com/JGolafshan/WallStreetSocial](https://github.com/JGolafshan/WallStreetSocial)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JGolafshan&repo=WallStreetSocial&theme=buefy" />
 </a>
-<a href="[https://github.com/JGolafshan/WallStreetSocial](https://github.com/JGolafshan/keno-api)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JGolafshan&repo=keno-api&theme=buefy" />
-</a>
 
 <br />
 <br />
