@@ -9,5 +9,5 @@ As a dedicated graduate in Mathematics & Statistics, I thrive on applying quanti
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,py,git,html,css&perline=8)](https://skillicons.dev)
 
-## Tool Used To Make This
-[gitdevtool](https://www.gitdevtool.com/)
+---
+_Tool Used To Make This [gitdevtool](https://www.gitdevtool.com/)_
