@@ -1,12 +1,9 @@
-<p align="center"><h1>Hello, I am Joshua David Golafshan</h1></h1></p>
+<p align="center"><h1>Hello, I am Josh</h1></h1></p>
 <br />
 
-I'm a self-taught passionate developer from Australia  
-
-**About me**
-
-- 💼 Looking for employment in the IT sector 
-- 💬 Ask me about anything [here](https://github.com/JGolafshan/JGolafshan/issues)
+### About me
+A highly motivated learner aspiring toward a career in mathematical finance. I’ve just completed a Bachelor
+of Science majoring in mathematics, with minors in Statistics and Computer Sciences. I’m passionate about problem-solving, especially when I can incorporate data into the process. Away from career aspirations, I enjoy working out, cooking and coding.
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
