@@ -1,27 +1,13 @@
-<p align="center"><h1>Hello, I am Josh</h1></h1></p>
-<br />
+## Hi there! 👋
 
-### About me
-A highly motivated learner aspiring toward a career in mathematical finance. I’ve just completed a Bachelor
-of Science majoring in mathematics, with minors in Statistics and Computer Sciences. I’m passionate about problem-solving, especially when I can incorporate data into the process. Away from career aspirations, I enjoy working out, cooking and coding.
+I'm Joshua Golafshan, a Mathematics & Statistics graduate based in Sydney. I have a passion for leveraging my analytical skills to solve complex problems and create impactful projects in the finance and technology sectors.
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+## About Me
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JGolafshan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGolafshan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+As a dedicated graduate in Mathematics & Statistics, I thrive on applying quantitative methods to real-world challenges. Currently, I am exploring opportunities in data science and financial technology, focusing on developing analytical tools and dashboards that drive decision-making.
 
-#### Top Repositories
+## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,py,git,html,css&perline=8)](https://skillicons.dev)
 
-
-<a href="[https://github.com/JGolafshan/WallStreetSocial](https://github.com/JGolafshan/WallStreetSocial)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JGolafshan&repo=WallStreetSocial&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://jgolafshan.github.io/">
-  <img align="right" alt="Joshua Golafshan | Website " width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"/>
-</a>
+## Tool Used To Make This
+[gitdevtool](https://www.gitdevtool.com/)
