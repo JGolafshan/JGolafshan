@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Joshua Golafshan, a Mathematics & Statistics graduate based in Sydney. I have a passion for leveraging my analytical skills to solve complex problems and create impactful projects in the finance and technology sectors.
+I'm Josh Golafshan, a Mathematics & Statistics graduate based in Sydney. I have a passion for leveraging my analytical skills to solve complex problems and create impactful projects in the finance and technology sectors.
 
 ## About Me
 
